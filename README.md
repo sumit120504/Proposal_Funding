@@ -47,7 +47,7 @@ Our vision is to create a fully autonomous, transparent, and efficient funding e
 
 *Contract address will be added after deployment*
 
-**Network**: Stacks Mainnet  
+**Network**: Stacks Testnet  
 **Contract Address**: `STG86DAJQQ3HXTF5CF5R6QC45M4PRW7GJ05H9GTQ.Proposal_Funding`    
 
 <img width="1902" height="872" alt="image" src="https://github.com/user-attachments/assets/ddd2caf3-820c-4d66-98a5-2420f7200c5a" />
